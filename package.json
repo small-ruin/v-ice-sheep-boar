@@ -1,0 +1,19 @@
+{
+  "name": "v-ice-sheep-boar",
+  "version": "0.0.1",
+  "description": "document for self dnd3.5 supplement",
+  "main": "index.js",
+  "authors": {
+    "name": "hilshire",
+    "email": "hilshire.triela@gmail.com"
+  },
+  "repository": "/v-ice-sheep-boar",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
