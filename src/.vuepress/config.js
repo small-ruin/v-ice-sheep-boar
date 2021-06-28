@@ -4,6 +4,7 @@ module.exports = {
   title: 'DND《边界国度》系列拓展',
 
   description: description,
+  base: '/isp/',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -32,8 +33,7 @@ module.exports = {
         {
             title: '世设相关',
             path: '/introduction/',
-            collapsable: false,
-            children: [ "/ "]
+            collapsable: false
         },
         {
             title: '专长',
