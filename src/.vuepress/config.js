@@ -28,7 +28,16 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [],
+    nav: [
+        {
+            text: '边界国度',
+            link: '/introduction/'
+        },
+        {
+            text: '无冕者之书',
+            link: '/the_book_of_uncrown'
+        }
+    ],
     sidebar: [
         {
             title: '世设相关',
